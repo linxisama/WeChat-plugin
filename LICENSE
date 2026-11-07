@@ -1,0 +1,30 @@
+MIT License
+
+Copyright (c) 2026 linxisama
+
+本许可覆盖本仓库自身的整理工作：目录结构、index.json 的生成方式、
+tools/ 下的构建与校验脚本、README 与各插件页的中文说明文字。
+
+它不覆盖 packages/ 里各插件包内的代码 —— 那些代码的著作权归各自的
+作者所有，本仓库只是把它们统一成同一种包格式再分发。其中带 MIT
+声明的 5 个包（bilibili_account、owner_identity、voice_reply、
+voice_console、whale_signature）沿用其原有的 MIT 许可；其余包在源包
+里未写许可信息，本仓库不对它们额外授权，使用前请自行确认。
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
